@@ -1,5 +1,5 @@
 # StudentPerformanceManagementSystem
-南京理工大学紫金学院java课程设计报告
+#南京理工大学紫金学院java课程设计报告
 
 #学生信息管理系统 该系统主要功能有：
 1) 学生基本信息和学生成绩的管理
